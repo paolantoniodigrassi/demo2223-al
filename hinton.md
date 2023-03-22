@@ -1,0 +1,5 @@
+#TA 2018 Winner: Geoffrey Hinton
+
+**Geoffrey Hinton:** His primary areas of investigation include Artificial intelligence, Artificial neural network, Machine learning, Pattern recognition and Speech recognition. Artificial intelligence and Layer are two areas of study in which he engages in interdisciplinary research. His Artificial neural network research is multidisciplinary, incorporating elements of Dropout, Task, Mixture model, Convolutional neural network and Generative model.
+
+His work in Convolutional neural network tackles topics such as Regularization which are related to areas like Similarity learning, Vanishing gradient problem, Feature learning and Fisher vector. His biological study spans a wide range of topics, including Variable-order Bayesian network, Bayesian statistics, Sigmoid function and Frequentist inference. His research in Speech recognition focuses on subjects like Time delay neural network, which are connected to Frame and Margin.
